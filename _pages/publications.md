@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+# LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation 
 
-{% include base_path %}
+Accepted for a short talk at ICML 2022. This work investigates how to effectively prune Combinatorial Optimisation by efficiently searching for an optimal subgraph, initialised at any random subgraph. 
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+[Download paper here](https://arxiv.org/abs/2205.10106)
+
+Recommended citation: Ireland D. and Montana G. (2022). "LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation" <i>Proceedings of the 39th International Conference on Machine Learning 1</i>. 1(1).
