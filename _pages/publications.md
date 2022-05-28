@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-# LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation 
+## LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation 
 
 Accepted for a short talk at ICML 2022. This work investigates how to effectively prune Combinatorial Optimisation by efficiently searching for an optimal subgraph, initialised at any random subgraph. 
 
