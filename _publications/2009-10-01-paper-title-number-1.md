@@ -4,12 +4,12 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+venue: 'International Conference on Machine Learning 2022'
+paperurl: 'https://arxiv.org/abs/2205.10106'
+citation: 'Ireland D. and Montana G. (2022). &quot; LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation<i>Proceedings of the 39th International Conference on Machine Learning</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Accepted for a short talk at ICML 2022. This work investigates how to effectively prune Combinatorial Optimisation by efficiently searching for an optimal subgraph, initialised at any random subgraph. 
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://arxiv.org/abs/2205.10106)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Ireland D. and Montana G. (2022). "LeNSE: Learning To Navigate Subgraph Embeddings for Large-Scale Combinatorial Optimisation" <i>Proceedings of the 39th International Conference on Machine Learning 1</i>. 1(1).
