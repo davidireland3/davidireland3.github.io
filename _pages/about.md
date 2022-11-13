@@ -17,4 +17,5 @@ Previously I was at the University of Lancaster where I completed a BSc in Mathe
 I love to go on walks, especially in the Lake District when I am back home and can take my little dog along. I also enjoy reading, particularly science fiction/fantasy; some of my favourite books include the A Song of Ice and Fire series by G.R.R.M (I've been waiting for Winds of Winter for more than a decade now!), the first Dune trilogy by Frank Herbert (in particular, the first book is possibly the best I've ever read), and some of Philip K. Dick's books, in particular A Scanner Darkly and Ubik. I also try to travel as often as possible, with my favourite place I've visited so far being Florence. 
 
 ## News
+* As of September 2022 I'll be joining MediaTek Research as a research intern, working on Hierarchical RL - in particular, the options framework.  
 * My first paper, [LeNSE](https://arxiv.org/pdf/2205.10106.pdf), was accepted to [ICML 2022](https://icml.cc)! Come along and see the poster if you're attending in person, or the virtual slides if you're attending virtually. 
