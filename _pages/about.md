@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Warwick. My research interests include all things Reinforcement Learning, with my particular focus being on applications where the state can be represented as a graph, such as Combinatorial Optimisation. Owing to this, I am also interested in advances in Geometric Deep Learning. My supervisor is [Professor Giovanni Montana]([url](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/montana/)) of the Statistics Department at the University of Warwick. 
+I am a PhD student at the University of Warwick under the supervision of [Professor Giovanni Montana]([url](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/montana/)) of the Statistics Department at the University of Warwick. My research interests include all things reinforcement learning (RL), with my particular focus during my PhD being on problems where the state and/or action space have some combinatorial aspect to them. My first paper, published at ICML, looked at using RL to help solve combinatorial optimisation problems. We used RL to help existing heuristic solvers scale up to solve problems on graphs with millions of nodes/edges. More recently, I have been interested in works with high-dimensional discrete action spaces. This work ties closely with multi-agent RL, which I am also interested in.
 
 Previously I was at the University of Lancaster where I completed a BSc in Mathematics and an MSc in Statistics. My MSc thesis was titled "Multi-armed bandits and their uses in clinical trials".
  
